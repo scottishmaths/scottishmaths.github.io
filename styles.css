@@ -1,0 +1,17 @@
+body, h1 {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana;
+  }
+
+  .title-bar {
+    background-color: #1d2a59; /* Background color of the bar */
+    color: #fff; /* Text color */
+    padding: 10px; /* Padding inside the bar */
+    font-size: 25px;
+  }
+
+h4 {
+    margin-top: 0; 
+    margin-bottom: 
+  }
